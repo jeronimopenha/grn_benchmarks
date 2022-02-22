@@ -50,4 +50,14 @@ Th2I_Bacterium = ( Th2II_Bacterium )
 AD = ( ( ( IgG and ( ( ( AD  or IS ) ) )     ) and not ( MPI_Bacterium  )  ) and not ( NE_TRetortaeformis  ) ) 
 EL = ( ( IS  ) and not ( EL2  ) ) 
 Th2I_TRetortaeformis = ( Th2II_TRetortaeformis ) 
-IS
+IS = IS
+BC_TRettaefmis = BC_TRettaefmis
+DCI_TRettaefmis = DCI_TRettaefmis
+Th2I_TRettaefmis = Th2I_TRettaefmis
+DCII_TRettaefmis = DCII_TRettaefmis
+Th2II_TRettaefmis = Th2II_TRettaefmis
+Th1II_TRettaefmis = Th1II_TRettaefmis
+NE_TRettaefmis = NE_TRettaefmis
+Th1I_TRettaefmis = Th1I_TRettaefmis
+EC_TRettaefmis = EC_TRettaefmis
+IgA_TRettaefmis = IgA_TRettaefmis
